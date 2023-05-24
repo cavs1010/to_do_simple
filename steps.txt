@@ -1,0 +1,4 @@
+1. Create the frontend (VIEW SEction):
+	- Define Components
+	- Build Components
+	- Add States
